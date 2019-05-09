@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.10</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>Online PAD Generator 1.33 - http://www.padbuilder.com</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>Omar_Mz Software</Company_Name>
+		<Address_1>Uganda</Address_1>
+		<Address_2>Kampala</Address_2>
+		<City_Town>Kampala City</City_Town>
+		<State_Province>Central</State_Province>
+		<Zip_Postal_Code>256</Zip_Postal_Code>
+		<Country>Uganda</Country>
+		<Company_WebSite_URL>http://www.computerglossary.tk</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Omar </Author_First_Name>
+			<Author_Last_Name>Abdou </Author_Last_Name>
+			<Author_Email>omar_mz@outlook.fr</Author_Email>
+			<Contact_First_Name>Omar </Contact_First_Name>
+			<Contact_Last_Name>Abdou el anziz</Contact_Last_Name>
+			<Contact_Email>omar_mz@outlook.fr</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email />
+			<Support_Email>omar_mz@outlook.fr</Support_Email>
+			<General_Email>omar_mz@outlook.fr</General_Email>
+			<Sales_Phone>+256702016859</Sales_Phone>
+			<Support_Phone>+256702016859</Support_Phone>
+			<General_Phone>+256702016859</General_Phone>
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>Computer Glossary</Program_Name>
+		<Program_Version>6.2.1</Program_Version>
+		<Program_Release_Month />
+		<Program_Release_Day />
+		<Program_Release_Year />
+		<Program_Cost_Dollars />
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>New Release</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win7 x32,Win7 x64,WinVista,WinVista x64,WinXP</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info />
+		<Program_Specific_Category>Education</Program_Specific_Category>
+		<Program_Category_Class>Education::Dictionaries</Program_Category_Class>
+		<Program_Categories />
+		<Program_System_Requirements>Net Framework</Program_System_Requirements>
+		<File_Info>
+			<File_Size_Bytes>117</File_Size_Bytes>
+			<File_Size_K>0.11</File_Size_K>
+			<File_Size_MB />
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On />
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>computer glossary terms computer definitions </Keywords>
+			<Char_Desc_45>Computer Glossary is a rich dictionary </Char_Desc_45>
+			<Char_Desc_80>Computer Glossary is a rich dictionary containing multiple computer-related terms</Char_Desc_80>
+			<Char_Desc_250>Computer Glossary is a rich dictionary containing multiple computer-related terms, which is useful for both students and professionals. The program integrates an offline database and offers references and descriptions for each term.                  </Char_Desc_250>
+			<Char_Desc_450>Computer Glossary is a rich dictionary containing multiple computer-related terms, which is useful for both students and professionals. The program integrates an offline database and offers references and descriptions for each term.  Computer Glossary can be installed in just a few simple steps and does not require special skills. The program comes with a simple interface and lets you easily search any term. The results will let you see the word'</Char_Desc_450>
+			<Char_Desc_2000>Thanks to a multitude of online sources, you can build your own computer nowadays by carefully watching video tutorials. Nevertheless, it's always a good idea to learn as much as possible about the PC, as you can spot solutions to problems easier, without having to necessarily consult documentation for minor tasks.  Whether you plan on constructing your own workstation or are simply curious about computers, you can check out Computer Glossary. It's a Windows application that comes bundled with an offline database of computer-related terms, showing descriptions and references to other terms. Search computer terms in an offline database  It's easy to get it up and running, thanks to a straightforward setup operation that doesn't require special attention. As far as the interface goes, Computer Glossary has a dark theme and a layout that reminds us of an encyclopedia, where you can enter a term and the search right away.  The search results take you to the most closest match, revealing the definition of the word, examples wherever possible, references to other definitions in the dictionary, as well as online sources where the information was extracted from. Next to the area of descriptions you can check out a list of all possible matches, grouped alphabetically.</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>Computer Glossary 6.2.1</Application_Info_URL>
+			<Application_Order_URL />
+			<Application_Screenshot_URL>http://computerglossary.tk/screenshots/screen1.PNG</Application_Screenshot_URL>
+			<Application_Icon_URL>http://computerglossary.tk/img/Untitled-1.png</Application_Icon_URL>
+			<Application_XML_File_URL />
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>https://drive.google.com/uc?export=download&amp;id=1iZJpIoohUo29XC5G2oYM117C5m5rNOTV</Primary_Download_URL>
+			<Secondary_Download_URL>https://www.softpedia.com/get/Others/Home-Education/Computer-Glossary.shtml#download</Secondary_Download_URL>
+			<Additional_Download_URL_1>http://www.download82.com/get/download/windows/computer-glossary/</Additional_Download_URL_1>
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions />
+		<EULA />
+	</Permissions>
+</XML_DIZ_INFO>
